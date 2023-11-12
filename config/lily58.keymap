@@ -11,11 +11,6 @@
 / {
     combos {
         compatible = "zmk,combos";
-
-        raycast {
-            bindings = <&kp LG(SPACE)>;
-            key-positions = <53>;
-        };
     };
 
     keymap {
